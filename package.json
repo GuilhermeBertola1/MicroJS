@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  },
+  "name": "microjs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "meu-script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeBertola1/MicroJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeBertola1/MicroJS/issues"
+  },
+  "homepage": "https://github.com/GuilhermeBertola1/MicroJS#readme"
+}
